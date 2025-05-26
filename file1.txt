@@ -1,0 +1,6 @@
+Hello world welcome to git and git hub tutorials
+Hello welcome to my repository 
+cat command is used to read a file
+touch command is used to create a file only
+vi command creates and edits a file 
+
